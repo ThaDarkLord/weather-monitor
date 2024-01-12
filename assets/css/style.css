@@ -1,0 +1,56 @@
+*{
+    max-height: 100vh;
+    max-width: 99%; 
+}
+body{
+    margin: 2px;
+}
+
+.navbar{
+    background-color: rgb(45, 45, 162)!important;
+    border: solid 1px;
+    margin: 2px;
+}
+.card-header {
+    padding: 0.5rem 1rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px rgba(0,0,0,.125)!important;
+}
+
+#city{
+    margin: 2px;
+    border: 0px;
+    border-bottom: solid 2px;
+
+}
+
+h3{
+    border: 0px;
+    background-color: white !important;
+}
+
+input{
+    border-radius: 6px;
+}
+
+.btn{
+    border: solid .5px;
+    padding: 2px;
+    margin-top: 3px;
+    background-color: rgb(45, 45, 162);
+    color: white;
+    
+}
+
+#section-2{
+    border-radius: 6px;
+    border: solid 1px;
+    margin-top: 1rem;
+}
+
+#day0, #day1, #day2, #day3, #day4{
+    border: solid 1px;
+    margin: 4px
+    /* display: none; switch to inline via js */
+}
