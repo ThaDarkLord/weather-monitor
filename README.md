@@ -15,3 +15,6 @@ The user will enter a city and press the search button. The current day will pop
 
 
 ![image of weather dashboard](./assets/images/06-server-side-apis-homework-demo.png)
+
+
+delpoyed application: https://thadarklord.github.io/weather-monitor/
